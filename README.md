@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Muhammad Bilal  
-
+# email: mbilalofficial.pk@gmail.com
 ### ⚡ Full Stack Developer | Next.js | React | Node.js | NestJS | CloudOps & AI  
 
 🌟 *"Turning complex ideas into clean, scalable, and premium digital experiences."*  
